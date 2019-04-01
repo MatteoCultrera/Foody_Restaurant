@@ -1,4 +1,4 @@
-package com.example.foodyuser;
+package com.example.foodyrestaurant;
 import android.app.AlertDialog;
 import android.content.Context;
 import android.content.DialogInterface;

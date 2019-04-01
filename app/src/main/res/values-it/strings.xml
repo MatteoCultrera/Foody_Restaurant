@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Foody</string>
+    <string name="app_name">Foody Rest</string>
     <string name="name_hint">Nome</string>
     <string name="email_hint">E-mail</string>
     <string name="address_hint">Indirizzo</string>
