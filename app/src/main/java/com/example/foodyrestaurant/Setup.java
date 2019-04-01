@@ -252,11 +252,10 @@ public class Setup extends AppCompatActivity {
             profilePicture.setImageURI(Uri.fromFile(f));
 
 
-        name.setText(sharedPref.getString("name", getResources().getString(R.string.name_Walter)));
-        email.setText(sharedPref.getString("email", getResources().getString(R.string.mail_Walter)));
-        address.setText(sharedPref.getString("address", getResources().getString(R.string.address_Walter)));
-        phoneNumber.setText(sharedPref.getString("phoneNumber", getResources().getString(R.string.phone_Walter)));
-        bio.setText(sharedPref.getString("bio", getResources().getString(R.string.bio_Walter)));
+        name.setText(sharedPref.getString("name", getResources().getString(R.string.namerosso)));
+        email.setText(sharedPref.getString("email", getResources().getString(R.string.mail_rosso)));
+        address.setText(sharedPref.getString("address", getResources().getString(R.string.address_rosso)));
+        phoneNumber.setText(sharedPref.getString("phoneNumber", getResources().getString(R.string.phone_rosso)));
         edit.apply();
 
 
